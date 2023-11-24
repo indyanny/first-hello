@@ -1,4 +1,4 @@
-# firstC
+# First Hello
 Meu primeiro "Hello World!" feito em estrutura básica na linguagem C.
 
 # C Introduction
